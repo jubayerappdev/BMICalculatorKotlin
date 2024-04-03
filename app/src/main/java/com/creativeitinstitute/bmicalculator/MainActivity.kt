@@ -22,7 +22,6 @@ class MainActivity : AppCompatActivity() {
 
         }
     }
-//uhjvyuftyftyfjj
     private fun calculateBmi(height:Double, weight:Double) {
 
         val result = weight/(height*height)
