@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
 
 
         }
-        //iuftfdty
+
     }
     private fun calculateBmi(height:Double, weight:Double) {
 
